@@ -343,7 +343,7 @@
         .add-btn {
             flex: 1;
             background: var(--primary);
-            color: white;
+            color: black;
             border: 0;
             padding: 10px;
             border-radius: 8px;
